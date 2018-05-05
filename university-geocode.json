@@ -1,300 +1,2085 @@
 [
-    "Imperial College London",
-    "VU Amsterdam",
-    "Boston University",
-    "George Mason University",
-    "University of Bath",
-    "Colorado State University",
-    "University of Illinois at Chicago",
-    "Duke University",
-    "Univ. of Colorado Colorado Springs",
-    "University of Maryland - College Park",
-    "University of Oxford",
-    "IIT Delhi",
-    "Northeastern University",
-    "UNIST",
-    "Washington University in St. Louis",
-    "University of Montreal",
-    "University of Colorado Boulder",
-    "University of Melbourne",
-    "University of Chicago",
-    "University of Pennsylvania",
-    "Stanford University",
-    "University of Notre Dame",
-    "University of Iowa",
-    "Princeton University",
-    "Carnegie Mellon University",
-    "University of Copenhagen",
-    "UNSW",
-    "University of Florida",
-    "Rutgers University",
-    "Michigan State University",
-    "George Washington University",
-    "University of New Mexico",
-    "University of Texas at San Antonio",
-    "CUNY",
-    "University of Ottawa",
-    "University of Central Florida",
-    "National University of Singapore",
-    "IIT Ropar",
-    "IIT Bombay",
-    "University of Minnesota",
-    "Johns Hopkins University",
-    "IIIT Hyderabad",
-    "Northern Arizona University",
-    "University of Zurich",
-    "Yale University",
-    "University of Alberta",
-    "Georgia Institute of Technology",
-    "Chinese University of Hong Kong",
-    "KU Leuven",
-    "Massachusetts Institute of Technology",
-    "Arizona State University",
-    "University of Pittsburgh",
-    "Concordia University",
-    "University of Edinburgh",
-    "Univ. of Illinois at Urbana-Champaign",
-    "Tel Aviv University",
-    "Georgetown University",
-    "University of Texas at Austin",
-    "Univ. of Maryland - Baltimore County",
-    "California Institute of Technology",
-    "Nanyang Technological University",
-    "University of Delaware",
-    "Max Planck Institute",
-    "University of California - Irvine",
-    "University of Wisconsin - Madison",
-    "University of Utah",
-    "IISc Bangalore",
-    "SUTD",
-    "University of California - Davis",
-    "University of California - Los Angeles",
-    "Florida State University",
-    "ETH Zurich",
-    "McGill University",
-    "Cornell University",
-    "Virginia Tech",
-    "Technion",
-    "Stevens Institute of Technology",
-    "University of South Florida",
-    "UFMG",
-    "College of William and Mary",
-    "Northwestern University",
-    "USP-ICMC",
-    "Polytechnic University of Catalonia",
-    "University of Buenos Aires",
-    "Ben-Gurion University of the Negev",
-    "TU Darmstadt",
-    "Qatar Computing Research Institute",
-    "Queen’s University",
-    "University of California - Riverside",
-    "Purdue University",
-    "National Taiwan University",
-    "Universidad de Chile",
-    "University at Buffalo",
-    "University of Southern California",
-    "York University",
-    "Qatar University",
-    "TU Dresden",
-    "Aalto University",
-    "University of Tokyo",
-    "Singapore Management University",
-    "University of Massachusetts Amherst",
-    "Ecole Normale Superieure de Cachan",
-    "Université Jean Monnet",
-    "University of Cambridge",
-    "University of Washington",
-    "University of Vermont",
-    "University of Sydney",
-    "Oregon State University",
-    "TU Delft",
-    "University of British Columbia",
-    "Rice University",
-    "USP",
-    "Ohio State University",
-    "McMaster University",
-    "HKUST",
-    "Ecole Normale Superieure",
-    "University of Houston",
-    "University of California - Berkeley",
-    "PUC-RIO",
-    "University of Murcia",
-    "University of Toronto",
-    "University of Queensland",
-    "Universidade de Lisboa",
-    "IMDEA Software Institute",
-    "University of Warsaw",
-    "North Carolina State University",
-    "Politecnico di Milano",
-    "University of Glasgow",
-    "University of Luxembourg",
-    "University of California - San Diego",
-    "University of Athens",
-    "University of California - Santa Cruz",
-    "Victoria University of Wellington",
-    "Hebrew University of Jerusalem",
-    "University of Victoria",
-    "University of North Carolina",
-    "Clemson University",
-    "Harvard University",
-    "TU Munich",
-    "University of Connecticut",
-    "TU Eindhoven",
-    "Columbia University",
-    "UFRJ",
-    "UNICAMP",
-    "University of Virginia",
-    "University of Adelaide",
-    "University of Michigan",
-    "University of Salerno",
-    "University of New Brunswick",
-    "University of Waterloo",
-    "NJIT",
-    "Sharif University of Technology",
-    "Drexel University",
-    "KAIST",
-    "UFRGS",
-    "University of Otago",
-    "Australian National University",
-    "New York University",
-    "University of Manchester",
-    "University of Oregon",
-    "Stony Brook University",
-    "University of Arizona",
-    "Koç University",
-    "University of Texas at Dallas",
-    "IIIT Delhi",
-    "University of California - Santa Barbara",
-    "IIT Kanpur",
-    "Bar-Ilan University",
-    "EPFL",
-    "Dartmouth College",
-    "Boise State University",
-    "University of Western Australia",
-    "Ariel University",
-    "Indiana University",
-    "Brown University",
-    "UFF",
-    "Rensselaer Polytechnic Institute",
-    "Pennsylvania State University",
-    "Washington State University",
-    "Aarhus University",
-    "Lund University",
-    "University of Manitoba",
-    "Queen Mary University of London",
-    "University of Pisa",
-    "Texas A&M University",
-    "Cyprus University of Technology",
-    "University of Freiburg",
-    "CISPA Helmholtz Center i.G.",
-    "Simon Fraser University",
-    "University of Bristol",
-    "Tsinghua University",
-    "University of Kentucky",
-    "Rochester Institute of Technology",
-    "Monash University",
-    "Emory University",
-    "Iowa State University",
-    "Old Dominion University",
-    "IT University of Copenhagen",
-    "University of Auckland",
-    "University of Canterbury",
-    "University of Kansas",
-    "University of Kent",
-    "Case Western Reserve University",
-    "Carleton University",
-    "IIT Kharagpur",
-    "IIT Gandhinagar",
-    "Vanderbilt University",
-    "University College London",
-    "University of Massachusetts Lowell",
-    "University of Dundee",
-    "Ecole Normale Superieure de Lyon",
-    "Hong Kong Baptist University",
-    "Tufts University",
-    "Auburn University",
-    "University of Calgary",
-    "Università della Svizzera italiana",
-    "IIT Madras",
-    "Binghamton University",
-    "Tata Institute of Fundamental Research",
-    "University of Wroclaw",
-    "IIT Guwahati",
-    "IIIT Bangalore",
-    "IIT Patna",
-    "University of Tennessee",
-    "EURECOM",
-    "PUC-RS",
-    "TTI Chicago",
-    "Hacettepe University",
-    "CMI",
-    "Chinese Academy of Sciences",
-    "Peking University",
-    "Zhejiang University",
-    "Nanjing University",
-    "RWTH Aachen",
-    "KAUST",
-    "IST Austria",
-    "University of Waikato",
-    "University of Nebraska",
-    "Shanghai Jiao Tong University",
-    "Harbin Institute of Technology",
-    "University of Passau",
-    "University of Guelph",
-    "University of Massachusetts Boston",
-    "Colorado School of Mines",
-    "POSTECH",
-    "Dalhousie University",
-    "University of Liverpool",
-    "Tulane University",
-    "Bielefeld University",
-    "Brigham Young University",
-    "Shanghai University of Finance and Economics",
-    "IMSc",
-    "Texas A&M at Qatar",
-    "Worcester Polytechnic Institute",
-    "Virginia Commonwealth University",
-    "University of Saskatchewan",
-    "ETS Montreal",
-    "University of South Carolina",
-    "Western University",
-    "University of Rochester",
-    "University of Texas at Arlington",
-    "Masdar Institute",
-    "Chulalongkorn University",
-    "Temple University",
-    "Naval Postgraduate School",
-    "University of New Hampshire",
-    "Kansas State University",
-    "University of Hawaii at Manoa",
-    "University of Nevada",
-    "Ryerson University",
-    "IIT Roorkee",
-    "University of Miami",
-    "AUEB",
-    "University of Tartu",
-    "Massey University",
-    "Boston College",
-    "Université libre de Bruxelles",
-    "USTC",
-    "New Mexico State University",
-    "CWI",
-    "RMIT University",
-    "American University of Beirut",
-    "Lebanese American University",
-    "IUPUI",
-    "UFPE",
-    "Universidade Federal de Viçosa",
-    "University of Georgia",
-    "Brandeis University",
-    "University of Idaho",
-    "UFU",
-    "OHSU",
-    "IIT (BHU) Varanasi",
-    "NYU Shanghai",
-    "HEC Montreal",
-    "IIT Hyderabad",
-    "University of Bern",
-    "BITS Pilani",
-    "IIT Mandi"
+    {
+        "name": "Imperial College London",
+        "loc": {
+            "lat": 51.49879970000001,
+            "lng": -0.1748772
+        }
+    },
+    {
+        "name": "VU Amsterdam",
+        "loc": {
+            "lat": 52.3337568,
+            "lng": 4.8657199
+        }
+    },
+    {
+        "name": "Boston University",
+        "loc": {
+            "lat": 42.3504997,
+            "lng": -71.1053991
+        }
+    },
+    {
+        "name": "George Mason University",
+        "loc": {
+            "lat": 38.8314875,
+            "lng": -77.3119442
+        }
+    },
+    {
+        "name": "University of Bath",
+        "loc": {
+            "lat": 51.3781162,
+            "lng": -2.3272635
+        }
+    },
+    {
+        "name": "Colorado State University",
+        "loc": {
+            "lat": 40.573436,
+            "lng": -105.0865473
+        }
+    },
+    {
+        "name": "University of Illinois at Chicago",
+        "loc": {
+            "lat": 41.8693039,
+            "lng": -87.6474502
+        }
+    },
+    {
+        "name": "Duke University",
+        "loc": {
+            "lat": 36.0014258,
+            "lng": -78.9382286
+        }
+    },
+    {
+        "name": "Univ. of Colorado Colorado Springs",
+        "loc": {
+            "lat": 38.8964679,
+            "lng": -104.8050594
+        }
+    },
+    {
+        "name": "University of Maryland - College Park",
+        "loc": {
+            "lat": 38.9869183,
+            "lng": -76.9425543
+        }
+    },
+    {
+        "name": "University of Oxford",
+        "loc": {
+            "lat": 51.7548164,
+            "lng": -1.2543668
+        }
+    },
+    {
+        "name": "IIT Delhi",
+        "loc": {
+            "lat": 28.5449756,
+            "lng": 77.19262839999999
+        }
+    },
+    {
+        "name": "Northeastern University",
+        "loc": {
+            "lat": 42.3398067,
+            "lng": -71.0891717
+        }
+    },
+    {
+        "name": "UNIST",
+        "loc": {
+            "lat": 42.8976205,
+            "lng": -85.56446849999999
+        }
+    },
+    {
+        "name": "Washington University in St. Louis",
+        "loc": {
+            "lat": 38.6487895,
+            "lng": -90.31079620000001
+        }
+    },
+    {
+        "name": "University of Montreal",
+        "loc": {
+            "lat": 45.5056156,
+            "lng": -73.61375919999999
+        }
+    },
+    {
+        "name": "University of Colorado Boulder",
+        "loc": {
+            "lat": 40.00758099999999,
+            "lng": -105.2659417
+        }
+    },
+    {
+        "name": "University of Melbourne",
+        "loc": {
+            "lat": -37.7963689,
+            "lng": 144.9611738
+        }
+    },
+    {
+        "name": "University of Chicago",
+        "loc": {
+            "lat": 41.7886079,
+            "lng": -87.5987133
+        }
+    },
+    {
+        "name": "University of Pennsylvania",
+        "loc": {
+            "lat": 39.9522188,
+            "lng": -75.1932137
+        }
+    },
+    {
+        "name": "Stanford University",
+        "loc": {
+            "lat": 37.4274745,
+            "lng": -122.169719
+        }
+    },
+    {
+        "name": "University of Notre Dame",
+        "loc": {
+            "lat": 41.7055716,
+            "lng": -86.2353388
+        }
+    },
+    {
+        "name": "University of Iowa",
+        "loc": {
+            "lat": 41.6626963,
+            "lng": -91.5548998
+        }
+    },
+    {
+        "name": "Princeton University",
+        "loc": {
+            "lat": 40.3439888,
+            "lng": -74.6514481
+        }
+    },
+    {
+        "name": "Carnegie Mellon University",
+        "loc": {
+            "lat": 40.4428081,
+            "lng": -79.94301279999999
+        }
+    },
+    {
+        "name": "University of Copenhagen",
+        "loc": {
+            "lat": 55.6802303,
+            "lng": 12.5724096
+        }
+    },
+    {
+        "name": "UNSW",
+        "loc": {
+            "lat": -33.917347,
+            "lng": 151.2312675
+        }
+    },
+    {
+        "name": "University of Florida",
+        "loc": {
+            "lat": 29.6436325,
+            "lng": -82.3549302
+        }
+    },
+    {
+        "name": "Rutgers University",
+        "loc": {
+            "lat": 40.5008186,
+            "lng": -74.44739910000001
+        }
+    },
+    {
+        "name": "Michigan State University",
+        "loc": {
+            "lat": 42.701848,
+            "lng": -84.4821719
+        }
+    },
+    {
+        "name": "George Washington University",
+        "loc": {
+            "lat": 38.8997145,
+            "lng": -77.0485992
+        }
+    },
+    {
+        "name": "University of New Mexico",
+        "loc": {
+            "lat": 35.0843187,
+            "lng": -106.6197812
+        }
+    },
+    {
+        "name": "University of Texas at San Antonio",
+        "loc": {
+            "lat": 29.5830446,
+            "lng": -98.6196556
+        }
+    },
+    {
+        "name": "CUNY",
+        "loc": {
+            "lat": 40.8209868,
+            "lng": -73.9501226
+        }
+    },
+    {
+        "name": "University of Ottawa",
+        "loc": {
+            "lat": 45.42310639999999,
+            "lng": -75.68313289999999
+        }
+    },
+    {
+        "name": "University of Central Florida",
+        "loc": {
+            "lat": 28.6024274,
+            "lng": -81.2000599
+        }
+    },
+    {
+        "name": "National University of Singapore",
+        "loc": {
+            "lat": 1.2966426,
+            "lng": 103.7763939
+        }
+    },
+    {
+        "name": "IIT Ropar",
+        "loc": {
+            "lat": 30.9756394,
+            "lng": 76.538868
+        }
+    },
+    {
+        "name": "IIT Bombay",
+        "loc": {
+            "lat": 19.1334302,
+            "lng": 72.9132679
+        }
+    },
+    {
+        "name": "University of Minnesota",
+        "loc": {
+            "lat": 44.97399,
+            "lng": -93.2277285
+        }
+    },
+    {
+        "name": "Johns Hopkins University",
+        "loc": {
+            "lat": 39.3299013,
+            "lng": -76.6205177
+        }
+    },
+    {
+        "name": "IIIT Hyderabad",
+        "loc": {
+            "lat": 17.445388,
+            "lng": 78.3482302
+        }
+    },
+    {
+        "name": "Northern Arizona University",
+        "loc": {
+            "lat": 35.1851895,
+            "lng": -111.6547075
+        }
+    },
+    {
+        "name": "University of Zurich",
+        "loc": {
+            "lat": 47.3743221,
+            "lng": 8.550981199999999
+        }
+    },
+    {
+        "name": "Yale University",
+        "loc": {
+            "lat": 41.3163244,
+            "lng": -72.92234309999999
+        }
+    },
+    {
+        "name": "University of Alberta",
+        "loc": {
+            "lat": 53.5232189,
+            "lng": -113.5263186
+        }
+    },
+    {
+        "name": "Georgia Institute of Technology",
+        "loc": {
+            "lat": 33.7756178,
+            "lng": -84.39628499999999
+        }
+    },
+    {
+        "name": "Chinese University of Hong Kong",
+        "loc": {
+            "lat": 22.4162632,
+            "lng": 114.2109318
+        }
+    },
+    {
+        "name": "KU Leuven",
+        "loc": {
+            "lat": 50.87795449999999,
+            "lng": 4.7002953
+        }
+    },
+    {
+        "name": "Massachusetts Institute of Technology",
+        "loc": {
+            "lat": 42.360091,
+            "lng": -71.09416
+        }
+    },
+    {
+        "name": "Arizona State University",
+        "loc": {
+            "lat": 33.4242399,
+            "lng": -111.9280527
+        }
+    },
+    {
+        "name": "University of Pittsburgh",
+        "loc": {
+            "lat": 40.4443533,
+            "lng": -79.960835
+        }
+    },
+    {
+        "name": "Concordia University",
+        "loc": {
+            "lat": 40.91437120000001,
+            "lng": -97.0896219
+        }
+    },
+    {
+        "name": "University of Edinburgh",
+        "loc": {
+            "lat": 55.9445158,
+            "lng": -3.1892413
+        }
+    },
+    {
+        "name": "Univ. of Illinois at Urbana-Champaign",
+        "loc": {
+            "lat": 40.1019523,
+            "lng": -88.2271615
+        }
+    },
+    {
+        "name": "Tel Aviv University",
+        "loc": {
+            "lat": 32.1133141,
+            "lng": 34.8043877
+        }
+    },
+    {
+        "name": "Georgetown University",
+        "loc": {
+            "lat": 38.9076089,
+            "lng": -77.07225849999999
+        }
+    },
+    {
+        "name": "University of Texas at Austin",
+        "loc": {
+            "lat": 30.2849185,
+            "lng": -97.7340567
+        }
+    },
+    {
+        "name": "Univ. of Maryland - Baltimore County",
+        "loc": {
+            "lat": 39.2556129,
+            "lng": -76.7109751
+        }
+    },
+    {
+        "name": "California Institute of Technology",
+        "loc": {
+            "lat": 34.1376576,
+            "lng": -118.125269
+        }
+    },
+    {
+        "name": "Nanyang Technological University",
+        "loc": {
+            "lat": 1.3483099,
+            "lng": 103.6831347
+        }
+    },
+    {
+        "name": "University of Delaware",
+        "loc": {
+            "lat": 39.6779504,
+            "lng": -75.7506114
+        }
+    },
+    {
+        "name": "Max Planck Institute",
+        "loc": {
+            "lat": 26.8838274,
+            "lng": -80.1148609
+        }
+    },
+    {
+        "name": "University of California - Irvine",
+        "loc": {
+            "lat": 33.6404952,
+            "lng": -117.8442962
+        }
+    },
+    {
+        "name": "University of Wisconsin - Madison",
+        "loc": {
+            "lat": 43.076592,
+            "lng": -89.4124875
+        }
+    },
+    {
+        "name": "University of Utah",
+        "loc": {
+            "lat": 40.7649368,
+            "lng": -111.8421021
+        }
+    },
+    {
+        "name": "IISc Bangalore",
+        "loc": {
+            "lat": 13.0218597,
+            "lng": 77.5671423
+        }
+    },
+    {
+        "name": "SUTD",
+        "loc": {
+            "lat": 1.3412873,
+            "lng": 103.9637891
+        }
+    },
+    {
+        "name": "University of California - Davis",
+        "loc": {
+            "lat": 38.5382322,
+            "lng": -121.7617125
+        }
+    },
+    {
+        "name": "University of California - Los Angeles",
+        "loc": {
+            "lat": 34.068921,
+            "lng": -118.4451811
+        }
+    },
+    {
+        "name": "Florida State University",
+        "loc": {
+            "lat": 30.4418778,
+            "lng": -84.2984889
+        }
+    },
+    {
+        "name": "ETH Zurich",
+        "loc": {
+            "lat": 47.376313,
+            "lng": 8.547669899999999
+        }
+    },
+    {
+        "name": "McGill University",
+        "loc": {
+            "lat": 45.50478469999999,
+            "lng": -73.5771511
+        }
+    },
+    {
+        "name": "Cornell University",
+        "loc": {
+            "lat": 42.4534492,
+            "lng": -76.4735027
+        }
+    },
+    {
+        "name": "Virginia Tech",
+        "loc": {
+            "lat": 37.22838429999999,
+            "lng": -80.42341669999999
+        }
+    },
+    {
+        "name": "Technion",
+        "loc": {
+            "lat": 32.7767783,
+            "lng": 35.0231271
+        }
+    },
+    {
+        "name": "Stevens Institute of Technology",
+        "loc": {
+            "lat": 40.7448376,
+            "lng": -74.025683
+        }
+    },
+    {
+        "name": "University of South Florida",
+        "loc": {
+            "lat": 28.0587031,
+            "lng": -82.41385389999999
+        }
+    },
+    {
+        "name": "UFMG",
+        "loc": {
+            "lat": -19.8690878,
+            "lng": -43.9663841
+        }
+    },
+    {
+        "name": "College of William and Mary",
+        "loc": {
+            "lat": 37.271674,
+            "lng": -76.71337799999999
+        }
+    },
+    {
+        "name": "Northwestern University",
+        "loc": {
+            "lat": 42.0564594,
+            "lng": -87.67526699999999
+        }
+    },
+    {
+        "name": "USP-ICMC",
+        "loc": {
+            "lat": -22.0070347,
+            "lng": -47.8949323
+        }
+    },
+    {
+        "name": "Polytechnic University of Catalonia",
+        "loc": {
+            "lat": 41.388004,
+            "lng": 2.1132804
+        }
+    },
+    {
+        "name": "University of Buenos Aires",
+        "loc": {
+            "lat": -34.5998875,
+            "lng": -58.37306949999999
+        }
+    },
+    {
+        "name": "Ben-Gurion University of the Negev",
+        "loc": {
+            "lat": 31.262218,
+            "lng": 34.801461
+        }
+    },
+    {
+        "name": "TU Darmstadt",
+        "loc": {
+            "lat": 49.874778,
+            "lng": 8.656139999999999
+        }
+    },
+    {
+        "name": "Qatar Computing Research Institute",
+        "loc": {
+            "lat": 25.3215914,
+            "lng": 51.42577379999999
+        }
+    },
+    {
+        "name": "Queen’s University",
+        "loc": {
+            "lat": 44.2252795,
+            "lng": -76.49514119999999
+        }
+    },
+    {
+        "name": "University of California - Riverside",
+        "loc": {
+            "lat": 33.9737055,
+            "lng": -117.3280644
+        }
+    },
+    {
+        "name": "Purdue University",
+        "loc": {
+            "lat": 40.4237054,
+            "lng": -86.92119459999999
+        }
+    },
+    {
+        "name": "National Taiwan University",
+        "loc": {
+            "lat": 25.0173405,
+            "lng": 121.5397518
+        }
+    },
+    {
+        "name": "Universidad de Chile",
+        "loc": {
+            "lat": -33.4445204,
+            "lng": -70.6509277
+        }
+    },
+    {
+        "name": "University at Buffalo",
+        "loc": {
+            "lat": 43.0008093,
+            "lng": -78.7889697
+        }
+    },
+    {
+        "name": "University of Southern California",
+        "loc": {
+            "lat": 34.0223519,
+            "lng": -118.285117
+        }
+    },
+    {
+        "name": "York University",
+        "loc": {
+            "lat": 43.7734535,
+            "lng": -79.50186839999999
+        }
+    },
+    {
+        "name": "Qatar University",
+        "loc": {
+            "lat": 25.376743,
+            "lng": 51.4876252
+        }
+    },
+    {
+        "name": "TU Dresden",
+        "loc": {
+            "lat": 51.02927340000001,
+            "lng": 13.7289964
+        }
+    },
+    {
+        "name": "Aalto University",
+        "loc": {
+            "lat": 60.1866693,
+            "lng": 24.827682
+        }
+    },
+    {
+        "name": "University of Tokyo",
+        "loc": {
+            "lat": 35.7126775,
+            "lng": 139.761989
+        }
+    },
+    {
+        "name": "Singapore Management University",
+        "loc": {
+            "lat": 1.2962727,
+            "lng": 103.8501578
+        }
+    },
+    {
+        "name": "University of Massachusetts Amherst",
+        "loc": {
+            "lat": 42.3911569,
+            "lng": -72.5267121
+        }
+    },
+    {
+        "name": "Ecole Normale Superieure de Cachan",
+        "loc": {
+            "lat": 48.78871909999999,
+            "lng": 2.3272147
+        }
+    },
+    {
+        "name": "Université Jean Monnet",
+        "loc": {
+            "lat": 45.424622,
+            "lng": 4.392984999999999
+        }
+    },
+    {
+        "name": "University of Cambridge",
+        "loc": {
+            "lat": 52.2042666,
+            "lng": 0.1149085
+        }
+    },
+    {
+        "name": "University of Washington",
+        "loc": {
+            "lat": 37.09024,
+            "lng": -95.712891
+        }
+    },
+    {
+        "name": "University of Vermont",
+        "loc": {
+            "lat": 44.4778528,
+            "lng": -73.1964637
+        }
+    },
+    {
+        "name": "University of Sydney",
+        "loc": {
+            "lat": -33.888584,
+            "lng": 151.1873473
+        }
+    },
+    {
+        "name": "Oregon State University",
+        "loc": {
+            "lat": 44.5637806,
+            "lng": -123.2794443
+        }
+    },
+    {
+        "name": "TU Delft",
+        "loc": {
+            "lat": 51.99625589999999,
+            "lng": 4.3758659
+        }
+    },
+    {
+        "name": "University of British Columbia",
+        "loc": {
+            "lat": 49.26060520000001,
+            "lng": -123.2459938
+        }
+    },
+    {
+        "name": "Rice University",
+        "loc": {
+            "lat": 29.7173941,
+            "lng": -95.40183119999999
+        }
+    },
+    {
+        "name": "USP",
+        "loc": {
+            "lat": 32.873441,
+            "lng": -96.90088019999999
+        }
+    },
+    {
+        "name": "Ohio State University",
+        "loc": {
+            "lat": 40.0141905,
+            "lng": -83.03091429999999
+        }
+    },
+    {
+        "name": "McMaster University",
+        "loc": {
+            "lat": 43.260879,
+            "lng": -79.9192254
+        }
+    },
+    {
+        "name": "HKUST",
+        "loc": {
+            "lat": 22.3363998,
+            "lng": 114.2654655
+        }
+    },
+    {
+        "name": "Ecole Normale Superieure",
+        "loc": {
+            "lat": 48.8422058,
+            "lng": 2.3451689
+        }
+    },
+    {
+        "name": "University of Houston",
+        "loc": {
+            "lat": 29.7199489,
+            "lng": -95.3422334
+        }
+    },
+    {
+        "name": "University of California - Berkeley",
+        "loc": {
+            "lat": 37.8718992,
+            "lng": -122.2585399
+        }
+    },
+    {
+        "name": "PUC-RIO",
+        "loc": {
+            "lat": -22.9791074,
+            "lng": -43.23308249999999
+        }
+    },
+    {
+        "name": "University of Murcia",
+        "loc": {
+            "lat": 38.01875100000001,
+            "lng": -1.16938
+        }
+    },
+    {
+        "name": "University of Toronto",
+        "loc": {
+            "lat": 43.6628917,
+            "lng": -79.39565640000001
+        }
+    },
+    {
+        "name": "University of Queensland",
+        "loc": {
+            "lat": -27.4954306,
+            "lng": 153.0120301
+        }
+    },
+    {
+        "name": "Universidade de Lisboa",
+        "loc": {
+            "lat": 38.7526578,
+            "lng": -9.158244999999999
+        }
+    },
+    {
+        "name": "IMDEA Software Institute",
+        "loc": {
+            "lat": 40.40726000000001,
+            "lng": -3.835857
+        }
+    },
+    {
+        "name": "University of Warsaw",
+        "loc": {
+            "lat": 52.2403463,
+            "lng": 21.0186012
+        }
+    },
+    {
+        "name": "North Carolina State University",
+        "loc": {
+            "lat": 35.7846633,
+            "lng": -78.6820946
+        }
+    },
+    {
+        "name": "Politecnico di Milano",
+        "loc": {
+            "lat": 45.4786455,
+            "lng": 9.2297627
+        }
+    },
+    {
+        "name": "University of Glasgow",
+        "loc": {
+            "lat": 55.87212109999999,
+            "lng": -4.288200499999999
+        }
+    },
+    {
+        "name": "University of Luxembourg",
+        "loc": {
+            "lat": 49.504254,
+            "lng": 5.948386
+        }
+    },
+    {
+        "name": "University of California - San Diego",
+        "loc": {
+            "lat": 32.8800604,
+            "lng": -117.2340135
+        }
+    },
+    {
+        "name": "University of Athens",
+        "loc": {
+            "lat": 32.3734842,
+            "lng": -86.2998473
+        }
+    },
+    {
+        "name": "University of California - Santa Cruz",
+        "loc": {
+            "lat": 36.9914738,
+            "lng": -122.0582972
+        }
+    },
+    {
+        "name": "Victoria University of Wellington",
+        "loc": {
+            "lat": -41.2904017,
+            "lng": 174.7686615
+        }
+    },
+    {
+        "name": "Hebrew University of Jerusalem",
+        "loc": {
+            "lat": 31.7945578,
+            "lng": 35.2414009
+        }
+    },
+    {
+        "name": "University of Victoria",
+        "loc": {
+            "lat": 48.4634067,
+            "lng": -123.3116935
+        }
+    },
+    {
+        "name": "University of North Carolina",
+        "loc": {
+            "lat": 35.9049122,
+            "lng": -79.0469134
+        }
+    },
+    {
+        "name": "Clemson University",
+        "loc": {
+            "lat": 34.6760942,
+            "lng": -82.8364148
+        }
+    },
+    {
+        "name": "Harvard University",
+        "loc": {
+            "lat": 42.3770029,
+            "lng": -71.11666009999999
+        }
+    },
+    {
+        "name": "TU Munich",
+        "loc": {
+            "lat": 48.14966,
+            "lng": 11.5678602
+        }
+    },
+    {
+        "name": "University of Connecticut",
+        "loc": {
+            "lat": 41.8077414,
+            "lng": -72.2539805
+        }
+    },
+    {
+        "name": "TU Eindhoven",
+        "loc": {
+            "lat": 51.44860980000001,
+            "lng": 5.4907148
+        }
+    },
+    {
+        "name": "Columbia University",
+        "loc": {
+            "lat": 40.8075355,
+            "lng": -73.9625727
+        }
+    },
+    {
+        "name": "UFRJ",
+        "loc": {
+            "lat": -22.9541412,
+            "lng": -43.1753638
+        }
+    },
+    {
+        "name": "UNICAMP",
+        "loc": {
+            "lat": 34.0713489,
+            "lng": -118.4452164
+        }
+    },
+    {
+        "name": "University of Virginia",
+        "loc": {
+            "lat": 38.0335529,
+            "lng": -78.5079772
+        }
+    },
+    {
+        "name": "University of Adelaide",
+        "loc": {
+            "lat": -34.920603,
+            "lng": 138.6062277
+        }
+    },
+    {
+        "name": "University of Michigan",
+        "loc": {
+            "lat": 42.2780436,
+            "lng": -83.7382241
+        }
+    },
+    {
+        "name": "University of Salerno",
+        "loc": {
+            "lat": 40.7687118,
+            "lng": 14.7920179
+        }
+    },
+    {
+        "name": "University of New Brunswick",
+        "loc": {
+            "lat": 40.5008186,
+            "lng": -74.44739910000001
+        }
+    },
+    {
+        "name": "University of Waterloo",
+        "loc": {
+            "lat": 43.4722854,
+            "lng": -80.5448576
+        }
+    },
+    {
+        "name": "NJIT",
+        "loc": {
+            "lat": 40.7423345,
+            "lng": -74.1793409
+        }
+    },
+    {
+        "name": "Sharif University of Technology",
+        "loc": {
+            "lat": 35.7036366,
+            "lng": 51.351593
+        }
+    },
+    {
+        "name": "Drexel University",
+        "loc": {
+            "lat": 39.9566127,
+            "lng": -75.18994409999999
+        }
+    },
+    {
+        "name": "KAIST",
+        "loc": {
+            "lat": 36.3693921,
+            "lng": 127.3640249
+        }
+    },
+    {
+        "name": "UFRGS",
+        "loc": {
+            "lat": -30.0338248,
+            "lng": -51.21882799999999
+        }
+    },
+    {
+        "name": "University of Otago",
+        "loc": {
+            "lat": -45.8646835,
+            "lng": 170.5144227
+        }
+    },
+    {
+        "name": "Australian National University",
+        "loc": {
+            "lat": -35.2776999,
+            "lng": 149.118527
+        }
+    },
+    {
+        "name": "New York University",
+        "loc": {
+            "lat": 40.72951339999999,
+            "lng": -73.9964609
+        }
+    },
+    {
+        "name": "University of Manchester",
+        "loc": {
+            "lat": 53.4668498,
+            "lng": -2.2338837
+        }
+    },
+    {
+        "name": "University of Oregon",
+        "loc": {
+            "lat": 44.0448302,
+            "lng": -123.0726055
+        }
+    },
+    {
+        "name": "Stony Brook University",
+        "loc": {
+            "lat": 40.9123761,
+            "lng": -73.1233889
+        }
+    },
+    {
+        "name": "University of Arizona",
+        "loc": {
+            "lat": 32.2318851,
+            "lng": -110.9501094
+        }
+    },
+    {
+        "name": "Koç University",
+        "loc": {
+            "lat": 41.19779640000001,
+            "lng": 29.06738349999999
+        }
+    },
+    {
+        "name": "University of Texas at Dallas",
+        "loc": {
+            "lat": 32.9857619,
+            "lng": -96.7500993
+        }
+    },
+    {
+        "name": "IIIT Delhi",
+        "loc": {
+            "lat": 28.5456282,
+            "lng": 77.2731505
+        }
+    },
+    {
+        "name": "University of California - Santa Barbara",
+        "loc": {
+            "lat": 34.4139629,
+            "lng": -119.848947
+        }
+    },
+    {
+        "name": "IIT Kanpur",
+        "loc": {
+            "lat": 26.5123388,
+            "lng": 80.2329
+        }
+    },
+    {
+        "name": "Bar-Ilan University",
+        "loc": {
+            "lat": 32.0691989,
+            "lng": 34.8430876
+        }
+    },
+    {
+        "name": "EPFL",
+        "loc": {
+            "lat": 46.5190557,
+            "lng": 6.5667576
+        }
+    },
+    {
+        "name": "Dartmouth College",
+        "loc": {
+            "lat": 43.7044406,
+            "lng": -72.2886935
+        }
+    },
+    {
+        "name": "Boise State University",
+        "loc": {
+            "lat": 43.6033127,
+            "lng": -116.201649
+        }
+    },
+    {
+        "name": "University of Western Australia",
+        "loc": {
+            "lat": -31.981179,
+            "lng": 115.8199096
+        }
+    },
+    {
+        "name": "Ariel University",
+        "loc": {
+            "lat": 32.103188,
+            "lng": 35.207718
+        }
+    },
+    {
+        "name": "Indiana University",
+        "loc": {
+            "lat": 39.1745704,
+            "lng": -86.5129458
+        }
+    },
+    {
+        "name": "Brown University",
+        "loc": {
+            "lat": 41.8267718,
+            "lng": -71.4025482
+        }
+    },
+    {
+        "name": "UFF",
+        "loc": {
+            "lat": 36.0593635,
+            "lng": -95.91712380000001
+        }
+    },
+    {
+        "name": "Rensselaer Polytechnic Institute",
+        "loc": {
+            "lat": 42.730172,
+            "lng": -73.67880300000002
+        }
+    },
+    {
+        "name": "Pennsylvania State University",
+        "loc": {
+            "lat": 40.7982133,
+            "lng": -77.8599084
+        }
+    },
+    {
+        "name": "Washington State University",
+        "loc": {
+            "lat": 46.7319225,
+            "lng": -117.1542121
+        }
+    },
+    {
+        "name": "Aarhus University",
+        "loc": {
+            "lat": 56.1681384,
+            "lng": 10.2030118
+        }
+    },
+    {
+        "name": "Lund University",
+        "loc": {
+            "lat": 55.7119483,
+            "lng": 13.203493
+        }
+    },
+    {
+        "name": "University of Manitoba",
+        "loc": {
+            "lat": 49.8075008,
+            "lng": -97.1366259
+        }
+    },
+    {
+        "name": "Queen Mary University of London",
+        "loc": {
+            "lat": 51.5240671,
+            "lng": -0.0403745
+        }
+    },
+    {
+        "name": "University of Pisa",
+        "loc": {
+            "lat": 43.7167235,
+            "lng": 10.3988593
+        }
+    },
+    {
+        "name": "Texas A&M University",
+        "loc": {
+            "lat": 30.618531,
+            "lng": -96.33649899999999
+        }
+    },
+    {
+        "name": "Cyprus University of Technology",
+        "loc": {
+            "lat": 34.675141,
+            "lng": 33.044167
+        }
+    },
+    {
+        "name": "University of Freiburg",
+        "loc": {
+            "lat": 47.9935441,
+            "lng": 7.845949599999999
+        }
+    },
+    {
+        "name": "CISPA Helmholtz Center i.G.",
+        "loc": {
+            "lat": 49.2593925,
+            "lng": 7.0517115
+        }
+    },
+    {
+        "name": "Simon Fraser University",
+        "loc": {
+            "lat": 49.2780937,
+            "lng": -122.9198833
+        }
+    },
+    {
+        "name": "University of Bristol",
+        "loc": {
+            "lat": 51.4584172,
+            "lng": -2.6029792
+        }
+    },
+    {
+        "name": "Tsinghua University",
+        "loc": {
+            "lat": 39.9996674,
+            "lng": 116.3264439
+        }
+    },
+    {
+        "name": "University of Kentucky",
+        "loc": {
+            "lat": 38.0306511,
+            "lng": -84.5039697
+        }
+    },
+    {
+        "name": "Rochester Institute of Technology",
+        "loc": {
+            "lat": 43.0845894,
+            "lng": -77.67434449999999
+        }
+    },
+    {
+        "name": "Monash University",
+        "loc": {
+            "lat": -37.9105238,
+            "lng": 145.1362182
+        }
+    },
+    {
+        "name": "Emory University",
+        "loc": {
+            "lat": 33.7925195,
+            "lng": -84.32399889999999
+        }
+    },
+    {
+        "name": "Iowa State University",
+        "loc": {
+            "lat": 42.0266187,
+            "lng": -93.6464654
+        }
+    },
+    {
+        "name": "Old Dominion University",
+        "loc": {
+            "lat": 36.8856104,
+            "lng": -76.3067777
+        }
+    },
+    {
+        "name": "IT University of Copenhagen",
+        "loc": {
+            "lat": 55.65963499999999,
+            "lng": 12.590958
+        }
+    },
+    {
+        "name": "University of Auckland",
+        "loc": {
+            "lat": -36.8523378,
+            "lng": 174.7691073
+        }
+    },
+    {
+        "name": "University of Canterbury",
+        "loc": {
+            "lat": 35.205492,
+            "lng": -97.44824600000001
+        }
+    },
+    {
+        "name": "University of Kansas",
+        "loc": {
+            "lat": 38.9543439,
+            "lng": -95.2557961
+        }
+    },
+    {
+        "name": "University of Kent",
+        "loc": {
+            "lat": 51.2968974,
+            "lng": 1.0682493
+        }
+    },
+    {
+        "name": "Case Western Reserve University",
+        "loc": {
+            "lat": 41.5043413,
+            "lng": -81.6083838
+        }
+    },
+    {
+        "name": "Carleton University",
+        "loc": {
+            "lat": 45.3875812,
+            "lng": -75.69602019999999
+        }
+    },
+    {
+        "name": "IIT Kharagpur",
+        "loc": {
+            "lat": 22.3149274,
+            "lng": 87.31053109999999
+        }
+    },
+    {
+        "name": "IIT Gandhinagar",
+        "loc": {
+            "lat": 23.2130988,
+            "lng": 72.6870318
+        }
+    },
+    {
+        "name": "Vanderbilt University",
+        "loc": {
+            "lat": 36.1447034,
+            "lng": -86.8026551
+        }
+    },
+    {
+        "name": "University College London",
+        "loc": {
+            "lat": 51.52455920000001,
+            "lng": -0.1340401
+        }
+    },
+    {
+        "name": "University of Massachusetts Lowell",
+        "loc": {
+            "lat": 42.6500568,
+            "lng": -71.32404679999999
+        }
+    },
+    {
+        "name": "University of Dundee",
+        "loc": {
+            "lat": 56.45824469999999,
+            "lng": -2.9821428
+        }
+    },
+    {
+        "name": "Ecole Normale Superieure de Lyon",
+        "loc": {
+            "lat": 45.7298448,
+            "lng": 4.8285332
+        }
+    },
+    {
+        "name": "Hong Kong Baptist University",
+        "loc": {
+            "lat": 22.3380838,
+            "lng": 114.1818597
+        }
+    },
+    {
+        "name": "Tufts University",
+        "loc": {
+            "lat": 42.4074843,
+            "lng": -71.1190232
+        }
+    },
+    {
+        "name": "Auburn University",
+        "loc": {
+            "lat": 32.5933574,
+            "lng": -85.4951663
+        }
+    },
+    {
+        "name": "University of Calgary",
+        "loc": {
+            "lat": 51.0781599,
+            "lng": -114.1358007
+        }
+    },
+    {
+        "name": "Università della Svizzera italiana",
+        "loc": {
+            "lat": 46.010737,
+            "lng": 8.958109
+        }
+    },
+    {
+        "name": "IIT Madras",
+        "loc": {
+            "lat": 13.0052137,
+            "lng": 80.24200119999999
+        }
+    },
+    {
+        "name": "Binghamton University",
+        "loc": {
+            "lat": 42.0893553,
+            "lng": -75.9697049
+        }
+    },
+    {
+        "name": "Tata Institute of Fundamental Research",
+        "loc": {}
+    },
+    {
+        "name": "University of Wroclaw",
+        "loc": {
+            "lat": 51.1140053,
+            "lng": 17.034463
+        }
+    },
+    {
+        "name": "IIT Guwahati",
+        "loc": {
+            "lat": 26.1902523,
+            "lng": 91.6920239
+        }
+    },
+    {
+        "name": "IIIT Bangalore",
+        "loc": {
+            "lat": 12.8447512,
+            "lng": 77.6632317
+        }
+    },
+    {
+        "name": "IIT Patna",
+        "loc": {
+            "lat": 25.5357523,
+            "lng": 84.8510653
+        }
+    },
+    {
+        "name": "University of Tennessee",
+        "loc": {
+            "lat": 35.9544013,
+            "lng": -83.92945639999999
+        }
+    },
+    {
+        "name": "EURECOM",
+        "loc": {
+            "lat": 43.614386,
+            "lng": 7.071124999999999
+        }
+    },
+    {
+        "name": "PUC-RS",
+        "loc": {
+            "lat": -30.0593446,
+            "lng": -51.1734912
+        }
+    },
+    {
+        "name": "TTI Chicago",
+        "loc": {
+            "lat": 41.7846982,
+            "lng": -87.5925848
+        }
+    },
+    {
+        "name": "Hacettepe University",
+        "loc": {
+            "lat": 39.8746147,
+            "lng": 32.7475962
+        }
+    },
+    {
+        "name": "CMI",
+        "loc": {
+            "lat": 40.03649619999999,
+            "lng": -88.26398789999999
+        }
+    },
+    {
+        "name": "Chinese Academy of Sciences",
+        "loc": {
+            "lat": 37.8059875,
+            "lng": -122.2696868
+        }
+    },
+    {
+        "name": "Peking University",
+        "loc": {
+            "lat": 39.986913,
+            "lng": 116.3058739
+        }
+    },
+    {
+        "name": "Zhejiang University",
+        "loc": {
+            "lat": 30.263944,
+            "lng": 120.123279
+        }
+    },
+    {
+        "name": "Nanjing University",
+        "loc": {
+            "lat": 32.0568391,
+            "lng": 118.7789602
+        }
+    },
+    {
+        "name": "RWTH Aachen",
+        "loc": {
+            "lat": 50.7800778,
+            "lng": 6.065686899999999
+        }
+    },
+    {
+        "name": "KAUST",
+        "loc": {
+            "lat": 22.309465,
+            "lng": 39.104697
+        }
+    },
+    {
+        "name": "IST Austria",
+        "loc": {
+            "lat": 48.309852,
+            "lng": 16.259696
+        }
+    },
+    {
+        "name": "University of Waikato",
+        "loc": {
+            "lat": -37.7868611,
+            "lng": 175.3184579
+        }
+    },
+    {
+        "name": "University of Nebraska",
+        "loc": {
+            "lat": 40.8201966,
+            "lng": -96.70047629999999
+        }
+    },
+    {
+        "name": "Shanghai Jiao Tong University",
+        "loc": {
+            "lat": 31.201001,
+            "lng": 121.432841
+        }
+    },
+    {
+        "name": "Harbin Institute of Technology",
+        "loc": {
+            "lat": 45.7470436,
+            "lng": 126.6334306
+        }
+    },
+    {
+        "name": "University of Passau",
+        "loc": {
+            "lat": 48.5670466,
+            "lng": 13.4517835
+        }
+    },
+    {
+        "name": "University of Guelph",
+        "loc": {
+            "lat": 43.5320995,
+            "lng": -80.2268613
+        }
+    },
+    {
+        "name": "University of Massachusetts Boston",
+        "loc": {
+            "lat": 42.3148413,
+            "lng": -71.0367377
+        }
+    },
+    {
+        "name": "Colorado School of Mines",
+        "loc": {
+            "lat": 39.7510136,
+            "lng": -105.2225705
+        }
+    },
+    {
+        "name": "POSTECH",
+        "loc": {
+            "lat": 36.0138857,
+            "lng": 129.3231836
+        }
+    },
+    {
+        "name": "Dalhousie University",
+        "loc": {
+            "lat": 44.63658119999999,
+            "lng": -63.59165549999999
+        }
+    },
+    {
+        "name": "University of Liverpool",
+        "loc": {
+            "lat": 53.405936,
+            "lng": -2.9655722
+        }
+    },
+    {
+        "name": "Tulane University",
+        "loc": {
+            "lat": 29.9403477,
+            "lng": -90.12072789999999
+        }
+    },
+    {
+        "name": "Bielefeld University",
+        "loc": {
+            "lat": 52.0378003,
+            "lng": 8.4947571
+        }
+    },
+    {
+        "name": "Brigham Young University",
+        "loc": {
+            "lat": 40.2518435,
+            "lng": -111.6493156
+        }
+    },
+    {
+        "name": "Shanghai University of Finance and Economics",
+        "loc": {
+            "lat": 31.306594,
+            "lng": 121.494038
+        }
+    },
+    {
+        "name": "IMSc",
+        "loc": {
+            "lat": 33.3986075,
+            "lng": -111.6068938
+        }
+    },
+    {
+        "name": "Texas A&M at Qatar",
+        "loc": {
+            "lat": 25.3147906,
+            "lng": 51.4393332
+        }
+    },
+    {
+        "name": "Worcester Polytechnic Institute",
+        "loc": {
+            "lat": 42.2745754,
+            "lng": -71.8062724
+        }
+    },
+    {
+        "name": "Virginia Commonwealth University",
+        "loc": {
+            "lat": 37.5495048,
+            "lng": -77.45097179999999
+        }
+    },
+    {
+        "name": "University of Saskatchewan",
+        "loc": {
+            "lat": 52.1334003,
+            "lng": -106.6313582
+        }
+    },
+    {
+        "name": "ETS Montreal",
+        "loc": {
+            "lat": 45.4946761,
+            "lng": -73.5622961
+        }
+    },
+    {
+        "name": "University of South Carolina",
+        "loc": {
+            "lat": 33.996112,
+            "lng": -81.0274276
+        }
+    },
+    {
+        "name": "Western University",
+        "loc": {
+            "lat": 43.0095971,
+            "lng": -81.2737336
+        }
+    },
+    {
+        "name": "University of Rochester",
+        "loc": {
+            "lat": 43.1305531,
+            "lng": -77.6260033
+        }
+    },
+    {
+        "name": "University of Texas at Arlington",
+        "loc": {
+            "lat": 32.7298718,
+            "lng": -97.1140116
+        }
+    },
+    {
+        "name": "Masdar Institute",
+        "loc": {
+            "lat": 24.4330231,
+            "lng": 54.619113
+        }
+    },
+    {
+        "name": "Chulalongkorn University",
+        "loc": {
+            "lat": 13.7341969,
+            "lng": 100.5323188
+        }
+    },
+    {
+        "name": "Temple University",
+        "loc": {
+            "lat": 39.9811935,
+            "lng": -75.1553512
+        }
+    },
+    {
+        "name": "Naval Postgraduate School",
+        "loc": {
+            "lat": 36.5974846,
+            "lng": -121.8733309
+        }
+    },
+    {
+        "name": "University of New Hampshire",
+        "loc": {
+            "lat": 43.138948,
+            "lng": -70.9370252
+        }
+    },
+    {
+        "name": "Kansas State University",
+        "loc": {
+            "lat": 39.1974437,
+            "lng": -96.5847249
+        }
+    },
+    {
+        "name": "University of Hawaii at Manoa",
+        "loc": {
+            "lat": 21.296939,
+            "lng": -157.8171118
+        }
+    },
+    {
+        "name": "University of Nevada",
+        "loc": {
+            "lat": 39.5441917,
+            "lng": -119.816397
+        }
+    },
+    {
+        "name": "Ryerson University",
+        "loc": {
+            "lat": 43.6576585,
+            "lng": -79.3788017
+        }
+    },
+    {
+        "name": "IIT Roorkee",
+        "loc": {
+            "lat": 29.8648599,
+            "lng": 77.89657869999999
+        }
+    },
+    {
+        "name": "University of Miami",
+        "loc": {
+            "lat": 25.7191685,
+            "lng": -80.2771253
+        }
+    },
+    {
+        "name": "AUEB",
+        "loc": {
+            "lat": 37.9940805,
+            "lng": 23.7324354
+        }
+    },
+    {
+        "name": "University of Tartu",
+        "loc": {
+            "lat": 58.3810843,
+            "lng": 26.7198659
+        }
+    },
+    {
+        "name": "Massey University",
+        "loc": {
+            "lat": 32.3745873,
+            "lng": -86.3126357
+        }
+    },
+    {
+        "name": "Boston College",
+        "loc": {
+            "lat": 42.3355488,
+            "lng": -71.16849450000001
+        }
+    },
+    {
+        "name": "Université libre de Bruxelles",
+        "loc": {
+            "lat": 50.8132068,
+            "lng": 4.3822222
+        }
+    },
+    {
+        "name": "USTC",
+        "loc": {
+            "lat": 32.9502455,
+            "lng": -96.8171235
+        }
+    },
+    {
+        "name": "New Mexico State University",
+        "loc": {
+            "lat": 32.2787745,
+            "lng": -106.7479059
+        }
+    },
+    {
+        "name": "CWI",
+        "loc": {
+            "lat": 36.1546123,
+            "lng": -95.8870311
+        }
+    },
+    {
+        "name": "RMIT University",
+        "loc": {
+            "lat": -37.8079933,
+            "lng": 144.9642263
+        }
+    },
+    {
+        "name": "American University of Beirut",
+        "loc": {
+            "lat": 40.7528385,
+            "lng": -73.9689989
+        }
+    },
+    {
+        "name": "Lebanese American University",
+        "loc": {
+            "lat": 33.8929063,
+            "lng": 35.4778503
+        }
+    },
+    {
+        "name": "IUPUI",
+        "loc": {
+            "lat": 39.7738832,
+            "lng": -86.1763393
+        }
+    },
+    {
+        "name": "UFPE",
+        "loc": {
+            "lat": -8.0517067,
+            "lng": -34.9504323
+        }
+    },
+    {
+        "name": "Universidade Federal de Viçosa",
+        "loc": {
+            "lat": -20.7608854,
+            "lng": -42.8692906
+        }
+    },
+    {
+        "name": "University of Georgia",
+        "loc": {
+            "lat": 33.9480053,
+            "lng": -83.3773221
+        }
+    },
+    {
+        "name": "Brandeis University",
+        "loc": {
+            "lat": 42.364989,
+            "lng": -71.258663
+        }
+    },
+    {
+        "name": "University of Idaho",
+        "loc": {
+            "lat": 46.7288124,
+            "lng": -117.0126084
+        }
+    },
+    {
+        "name": "UFU",
+        "loc": {
+            "lat": -18.9185061,
+            "lng": -48.2581695
+        }
+    },
+    {
+        "name": "OHSU",
+        "loc": {
+            "lat": 45.4989098,
+            "lng": -122.6858606
+        }
+    },
+    {
+        "name": "IIT (BHU) Varanasi",
+        "loc": {
+            "lat": 25.2624615,
+            "lng": 82.9893807
+        }
+    },
+    {
+        "name": "NYU Shanghai",
+        "loc": {
+            "lat": 31.225854,
+            "lng": 121.53415
+        }
+    },
+    {
+        "name": "HEC Montreal",
+        "loc": {
+            "lat": 45.5033628,
+            "lng": -73.6207582
+        }
+    },
+    {
+        "name": "IIT Hyderabad",
+        "loc": {
+            "lat": 17.5947033,
+            "lng": 78.1231054
+        }
+    },
+    {
+        "name": "University of Bern",
+        "loc": {
+            "lat": 46.9504896,
+            "lng": 7.438119
+        }
+    },
+    {
+        "name": "BITS Pilani",
+        "loc": {
+            "lat": 28.3639976,
+            "lng": 75.58696809999999
+        }
+    },
+    {
+        "name": "IIT Mandi",
+        "loc": {
+            "lat": 31.7753998,
+            "lng": 76.9860747
+        }
+    }
 ]
