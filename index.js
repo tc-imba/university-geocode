@@ -1,34 +1,21 @@
-const csv = require('csv');
-const fs = require('fs');
 const async = require('neo-async');
+const fs = require('fs');
 
 const googleMapsClient = require('@google/maps').createClient({
   key: 'AIzaSyAB5EIyEBpUvw4mPPzSqSZGnRc1VIKW3wY',
   // only useful in Mainland China (use ss on localhost:1080)
-  makeUrlRequest: require('./make-url-request-proxy'),
+  // makeUrlRequest: require('./make-url-request-proxy'),
   Promise: Promise,
 });
 
-const stream = fs.createReadStream('country-info.csv');
-const parser = csv.parse({delimiter: ','});
 
-let first = true;
-let schools = [];
-
-stream.pipe(parser).pipe(csv.transform(function(record) {
-  if (first) {
-    first = false;
-  } else {
-    schools.push(record[0]);
-  }
-}));
-
+let schools = require('./university.json');
 let school_map = {};
 let data = [];
 let success = 0;
 let error = 0;
 
-stream.on('end', async () => {
+setTimeout(async () => {
   console.log(schools);
   for (let i = 0; i < schools.length; i++) {
     school_map[schools[i]] = i;
@@ -57,11 +44,13 @@ stream.on('end', async () => {
       if (err) {
         console.log(err);
       } else {
-        console.log(data);
+        //console.log(data);
+        const data = JSON.stringify(Array.from(schools), null, 4);
+        fs.writeFileSync('university-geocode.json', data);
       }
     }
   );
-});
+}, 0);
 
 
 /**/
