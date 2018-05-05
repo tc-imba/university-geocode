@@ -45,7 +45,7 @@ setTimeout(async () => {
         console.log(err);
       } else {
         //console.log(data);
-        const data = JSON.stringify(Array.from(schools), null, 4);
+        const data = JSON.stringify(Array.from(data), null, 4);
         fs.writeFileSync('university-geocode.json', data);
       }
     }
